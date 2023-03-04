@@ -12,4 +12,84 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99b93107d7bc31740838a156d99e161c, type: 3}
   m_Name: ResourceRuleEditor
   m_EditorClassIdentifier: 
-  rules: []
+  rules:
+  - valid: 1
+    name: GFPrefab
+    variant: 
+    fileSystem: 
+    groups: 
+    assetsDirectoryPath: Assets/Deer/AssetsHotfix/GF
+    loadType: 0
+    packed: 1
+    filterType: 0
+    searchPatterns: '*.*'
+  - valid: 1
+    name: Entity
+    variant: 
+    fileSystem: 
+    groups: 
+    assetsDirectoryPath: Assets/Deer/AssetsHotfix/EntityPrefabs
+    loadType: 0
+    packed: 1
+    filterType: 0
+    searchPatterns: '*.*'
+  - valid: 1
+    name: Scenes
+    variant: 
+    fileSystem: 
+    groups: 
+    assetsDirectoryPath: Assets/Deer/AssetsHotfix/Scenes
+    loadType: 0
+    packed: 1
+    filterType: 0
+    searchPatterns: '*.*'
+  - valid: 1
+    name: Sounds
+    variant: 
+    fileSystem: 
+    groups: 
+    assetsDirectoryPath: Assets/Deer/AssetsHotfix/Sound
+    loadType: 0
+    packed: 1
+    filterType: 0
+    searchPatterns: '*.*'
+  - valid: 1
+    name: Atlas
+    variant: 
+    fileSystem: 
+    groups: 
+    assetsDirectoryPath: Assets/Deer/AssetsHotfix/UI/UIArt/Atlas
+    loadType: 0
+    packed: 1
+    filterType: 0
+    searchPatterns: '*.*'
+  - valid: 1
+    name: AtlasCollection
+    variant: 
+    fileSystem: 
+    groups: 
+    assetsDirectoryPath: Assets/Deer/AssetsHotfix/UI/UIArt/AtlasCollection
+    loadType: 0
+    packed: 1
+    filterType: 0
+    searchPatterns: '*.*'
+  - valid: 1
+    name: Texture
+    variant: 
+    fileSystem: 
+    groups: 
+    assetsDirectoryPath: Assets/Deer/AssetsHotfix/UI/UIArt/Texture
+    loadType: 0
+    packed: 1
+    filterType: 0
+    searchPatterns: '*.*'
+  - valid: 1
+    name: UIForms
+    variant: 
+    fileSystem: 
+    groups: 
+    assetsDirectoryPath: Assets/Deer/AssetsHotfix/UI/UIForms
+    loadType: 0
+    packed: 1
+    filterType: 0
+    searchPatterns: '*.*'

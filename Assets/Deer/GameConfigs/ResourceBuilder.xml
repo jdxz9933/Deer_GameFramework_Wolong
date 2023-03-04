@@ -2,16 +2,16 @@
 <UnityGameFramework>
   <ResourceBuilder>
     <Settings>
-      <InternalResourceVersion>11</InternalResourceVersion>
+      <InternalResourceVersion>14</InternalResourceVersion>
       <Platforms>2</Platforms>
       <AssetBundleCompression>1</AssetBundleCompression>
       <CompressionHelperTypeName>UnityGameFramework.Runtime.DefaultCompressionHelper</CompressionHelperTypeName>
       <AdditionalCompressionSelected>False</AdditionalCompressionSelected>
       <ForceRebuildAssetBundleSelected>False</ForceRebuildAssetBundleSelected>
       <BuildEventHandlerTypeName>BuildEventHandler</BuildEventHandlerTypeName>
-      <OutputDirectory>D:/Github/Deer_GameFramework_Wolong/ResourcesFiles</OutputDirectory>
-      <OutputPackageSelected>False</OutputPackageSelected>
-      <OutputFullSelected>True</OutputFullSelected>
+      <OutputDirectory>D:/Workspace/Deer_UGF/ResourcesFiles</OutputDirectory>
+      <OutputPackageSelected>True</OutputPackageSelected>
+      <OutputFullSelected>False</OutputFullSelected>
       <OutputPackedSelected>False</OutputPackedSelected>
     </Settings>
   </ResourceBuilder>

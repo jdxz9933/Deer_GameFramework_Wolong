@@ -180,6 +180,7 @@ namespace Main.Runtime.Procedure
 
         private void AllAsmLoadComplete()
         {
+            Log.Debug("AllAsmLoadComplete");
             if (null == m_MainLogicAssembly)
             {
                 Log.Fatal("Main logic assembly missing.");
